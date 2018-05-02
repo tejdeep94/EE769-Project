@@ -1,4 +1,4 @@
-Tejdeep Reddy - 173230004
+Tejdeep Reddy - 173230004, 
 Arijit Sarkar - 173230014
 
 Evaluating the performance of classifiers in a fraud detection application on computer networks
